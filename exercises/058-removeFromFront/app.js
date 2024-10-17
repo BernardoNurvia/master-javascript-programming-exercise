@@ -1,6 +1,6 @@
 function removeFromFront(arr) {
     // your code here
-    
+    return arr.slice(0);
 }
 
 let output = removeFromFront([1, 2, 3]);
